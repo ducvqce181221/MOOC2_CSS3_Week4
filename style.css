@@ -29,16 +29,13 @@ h2 {
     font-family: "Courier New", Courier, monospace;
 }
 
-h3 {
+h3,
+h3 a {
     text-align: center;
     color: #dedede;
     background-color: #00284c;
     padding: 3px;
     border-radius: 5px;
-}
-
-#text-underline {
-    text-decoration: underline;
 }
 
 span {
